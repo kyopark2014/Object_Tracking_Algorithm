@@ -1,5 +1,5 @@
-# Particle_Tracking_Algorithm
-It shows the algorithm of particle tracking for tracking objects
+# Obejct_Tracking_Algorithm
+It shows particle filtering algorithm for tracking objects
 
 ### Particle Filtering has 3 Steps
    1. Generation of Particles
