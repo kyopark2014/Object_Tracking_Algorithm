@@ -1,0 +1,21 @@
+close all;
+clear all;
+
+figure(1);
+load x.txt;
+load y.txt;
+plot(x,y,'r.');
+
+figure(2);
+load object.txt;
+plot(object(:,1),object(:,2),'*-');
+
+figure(3);
+load estimate.txt;
+plot(estimate(:,1),estimate(:,2),'*-');
+
+figure(4);
+load px;
+load py;
+
+
