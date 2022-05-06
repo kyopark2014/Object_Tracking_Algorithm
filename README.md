@@ -1,4 +1,5 @@
-# Obejct_Tracking_Algorithm
+# Obejct Tracking Algorithm
+
 It shows particle filtering algorithm for tracking objects
 
 ### Particle Filtering has 3 Steps
